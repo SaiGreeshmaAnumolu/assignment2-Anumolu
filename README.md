@@ -23,3 +23,7 @@ Refer the below detailed table of the countries to visit for your best Holiday. 
 | USA | Best beach destination, key largo | 25 days |
 | India | Visit Agra which is famous for architecture | 40 days |
 | Europe | popular for wine tasting and delicious chocolates | 10 days |
+---------
+# FUNNY QUOTES:
+> I finally realized that people are prisoners of their phones... that's why it's called a "cell" phone. *- Lilly Tomlin*
+> People say nothing is impossible, but I do nothing everyday. *- A.A. Milne*
