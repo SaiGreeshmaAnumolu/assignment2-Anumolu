@@ -32,3 +32,28 @@ Refer the below detailed table of the countries to visit for your best Holiday. 
 > People say nothing is impossible, but I do nothing everyday.
 
 *- A.A. Milne*
+----------
+# SVG Code:
+How to do morphing in SVG? <https://stackoverflow.com/questions/55682622/how-to-do-morphing-in-svg>
+```
+<!-- The button element (we could have used `<button>`) -->
+<a class="button" href="#">
+  
+  <!-- The main SVG where both shapes will be drawn -->
+  <svg id="icons" class="button-icons" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    
+    <!-- The download icon -->
+    <path id="download" class="icon" d="M28 16h-5l-7 7-7-7h-5l-4 8v2h32v-2l-4-8zM0 28h32v2h-32v-2zM18 10v-8h-4v8h-7l9 9 9-9h-7z"></path>
+    
+    <!-- The checkmark icon -->
+    <path id="checkmark" class="icon" d="M27 4l-15 15-7-7-5 5 12 12 20-20z"></path>
+  </svg>
+
+  <!-- The button text -->
+  <!-- The ID will be used to swap the text with JavaScript -->
+  <span id="button-text">Download</span>
+
+</a>
+```
+
+[SVG Code link]<https://css-tricks.com/snippets/svg/shape-morphing-icons-button-click/>
