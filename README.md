@@ -26,7 +26,9 @@ Refer the below detailed table of the countries to visit for your best Holiday. 
 ---------
 # FUNNY QUOTES:
 > I finally realized that people are prisoners of their phones... that's why it's called a "cell" phone.
+
 *- Lilly Tomlin*
 
 > People say nothing is impossible, but I do nothing everyday.
+
 *- A.A. Milne*
