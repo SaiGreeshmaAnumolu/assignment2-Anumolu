@@ -25,5 +25,8 @@ Refer the below detailed table of the countries to visit for your best Holiday. 
 | Europe | popular for wine tasting and delicious chocolates | 10 days |
 ---------
 # FUNNY QUOTES:
-> I finally realized that people are prisoners of their phones... that's why it's called a "cell" phone. *- Lilly Tomlin*
-> People say nothing is impossible, but I do nothing everyday. *- A.A. Milne*
+> I finally realized that people are prisoners of their phones... that's why it's called a "cell" phone.
+*- Lilly Tomlin*
+
+> People say nothing is impossible, but I do nothing everyday.
+*- A.A. Milne*
