@@ -32,6 +32,7 @@ Refer the below detailed table of the countries to visit for your best Holiday. 
 > People say nothing is impossible, but I do nothing everyday.
 
 *- A.A. Milne*
+
 ----------
 # SVG Code:
 How to do morphing in SVG? <https://stackoverflow.com/questions/55682622/how-to-do-morphing-in-svg>
@@ -56,4 +57,4 @@ How to do morphing in SVG? <https://stackoverflow.com/questions/55682622/how-to-
 </a>
 ```
 
-[SVG Code link]<https://css-tricks.com/snippets/svg/shape-morphing-icons-button-click/>
+SVG Code link: <https://css-tricks.com/snippets/svg/shape-morphing-icons-button-click/>
